@@ -1,0 +1,13 @@
+{
+  "name": "my-multi-tool",
+  "version": "1.0.0",
+  "description": "A 764 multi-tool with an interactive Pornhub preview",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building the project...'",
+    "start": "echo 'Starting the project...'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
