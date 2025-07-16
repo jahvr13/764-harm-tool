@@ -4,7 +4,7 @@
   "description": "A 764 multi-tool with an interactive Pornhub preview",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'Building the project...'",
+    "build": "cp -r . public",
     "start": "echo 'Starting the project...'"
   },
   "author": "",
